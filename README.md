@@ -1,6 +1,14 @@
 ## Hello, I'm Yash 👋
 
 <a href="https://www.linkedin.com/in/yash-oza-21803b325/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I am a student pursuing my MSc in Cyber Security with a profound interest in learning new technologies while solving challenging problems.
+
+## Objective
+
+My aim is to showcase the skills and knowledge that I have gathered through solving labs, CTFs, and working on my projects. 
+
+## Skills
 <!--
 **Learner029-security/Learner029-security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
